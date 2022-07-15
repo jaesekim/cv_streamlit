@@ -1,1 +1,1 @@
-# cv_streamlit
+# 강아지 분류 streamlit 배포
