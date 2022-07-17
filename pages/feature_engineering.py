@@ -35,11 +35,11 @@ st.markdown('### set class')
 st.code(set_class, language='python')
 
 # split train, data
-st.markdown('###')
+st.markdown('### split train, data')
 st.code(split_data, language='python')
 
 # set_layer
-st.markdown('###')
+st.markdown('### set_layer')
 st.code(set_layer, language='python')
 
 # compile
