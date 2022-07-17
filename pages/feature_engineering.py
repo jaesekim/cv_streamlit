@@ -14,7 +14,7 @@ st.markdown('## how many pictures')
 st.code(images, language='python')
 
 # label strings and numbers mapping
-st.markdown('## ')
+st.markdown('## label strings and numbers mapping')
 st.code(labeling, language='python')
 
 # show some pic
